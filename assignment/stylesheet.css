@@ -1,0 +1,28 @@
+header{
+background-color: orange;
+color: bisque;
+}
+
+
+.info{
+    background-color: bisque;
+}
+
+.info h2{
+    background-color: orange;
+    color: bisque;
+    text-align: center;
+}
+
+.info img {
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info h3 {
+    color: bisque;
+    background-color: orange;
+    text-align: center;
+}
